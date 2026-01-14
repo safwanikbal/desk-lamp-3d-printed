@@ -1,6 +1,8 @@
-# Adjustable 3D-Printed Desk Lamp
+<img width="758" height="757" alt="image" src="https://github.com/user-attachments/assets/3053dd35-499f-4e34-9343-c532d71411cd" /># Adjustable 3D-Printed Desk Lamp
 
 ## Overview
+https://youtu.be/_lvljGhljhw Link to SolidWorks Assembly Walkthrough: 3D-Printed Desk Lamp
+
 The product is an adjustable and portable desk lamp designed to provide sufficient lighting. It is intended for students, hobbyists, and professionals working on small tasks, such as studying, late-night work, or fine-detail hobbies.
 
 Notice: Lamp Base.SLDPRT and Lamp arm Project.SLDPRT were designed by a project partner (Nicholas Koltz).
